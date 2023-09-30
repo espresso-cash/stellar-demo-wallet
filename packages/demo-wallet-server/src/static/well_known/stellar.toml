@@ -1,18 +1,18 @@
-ACCOUNTS = [ "GBM53YM5CUICEOTGY3N2UJLLZ4QXNCAANINBNLHSNTEULBQ3HENOUU2J", "GDRND2IUXVMHZ4XTB2RZ4AJ3AOLON3WTAOC23XEASB56NHDFW3ED57TW" ]
+ACCOUNTS = [ "GC4OF67WA4JTFTCXGIHGR7QX6HWNXACI23HEFXZNVRMSRA6ZHIPXI25T" ]
 VERSION = "0.1.0"
-SIGNING_KEY = "GBM53YM5CUICEOTGY3N2UJLLZ4QXNCAANINBNLHSNTEULBQ3HENOUU2J"
+SIGNING_KEY = "GC4OF67WA4JTFTCXGIHGR7QX6HWNXACI23HEFXZNVRMSRA6ZHIPXI25T"
 NETWORK_PASSPHRASE = "Test SDF Network ; September 2015"
 
 [[PRINCIPALS]]
-name = "Stephen Fung"
-email = "stephen@stellar.org"
-keybase = "stfung77"
-github = "https://www.github.com/stfung77"
+name = "Espresso Cash"
+email = "contact@espressocash.com"
+keybase = ""
+github = "https://github.com/espresso-cash"
 
 [DOCUMENTATION]
-ORG_NAME = "Stellar Development Foundation"
-ORG_URL = "https://stellar.org"
-ORG_DESCRIPTION = "demo wallet backend server."
-ORG_KEYBASE = "stellar.public"
-ORG_TWITTER = "StellarOrg"
-ORG_GITHUB = "stellar"
+ORG_NAME = "Espresso Cash"
+ORG_URL = "https://www.espressocash.com/"
+ORG_DESCRIPTION = "ID Stellar Testnet Moneygram"
+ORG_KEYBASE = ""
+ORG_TWITTER = "espresso_cash"
+ORG_GITHUB = "espresso-cash"
