@@ -1,4 +1,4 @@
-FROM node:18 as build
+FROM  --platform=linux/amd64 node:18 as build
 
 MAINTAINER SDF Ops Team <ops@stellar.org>
 
