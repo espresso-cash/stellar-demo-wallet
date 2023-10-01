@@ -12,7 +12,7 @@ RUN yarn build:server
 
 # Copy it all to a clean image to avoid cache artifacts elsewhere in the image
 
-FROM node:18
+FROM --platform=linux/amd64 node:18
 COPY --from=build /app /app
 WORKDIR /app
 
