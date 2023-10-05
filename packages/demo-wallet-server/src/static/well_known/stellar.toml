@@ -1,18 +1,2 @@
-ACCOUNTS = [ "GC4OF67WA4JTFTCXGIHGR7QX6HWNXACI23HEFXZNVRMSRA6ZHIPXI25T" ]
-VERSION = "0.1.0"
-SIGNING_KEY = "GC4OF67WA4JTFTCXGIHGR7QX6HWNXACI23HEFXZNVRMSRA6ZHIPXI25T"
-NETWORK_PASSPHRASE = "Test SDF Network ; September 2015"
-
-[[PRINCIPALS]]
-name = "Espresso Cash"
-email = "contact@espressocash.com"
-keybase = ""
-github = "https://github.com/espresso-cash"
-
-[DOCUMENTATION]
-ORG_NAME = "Espresso Cash"
-ORG_URL = "https://www.espressocash.com/"
-ORG_DESCRIPTION = "ID Stellar Testnet Moneygram"
-ORG_KEYBASE = ""
-ORG_TWITTER = "espresso_cash"
-ORG_GITHUB = "espresso-cash"
+SIGNING_KEY="GC4OF67WA4JTFTCXGIHGR7QX6HWNXACI23HEFXZNVRMSRA6ZHIPXI25T"
+NETWORK_PASSPHRASE="Test SDF Network ; September 2015"
